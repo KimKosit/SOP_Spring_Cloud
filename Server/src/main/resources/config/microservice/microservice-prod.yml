@@ -1,0 +1,5 @@
+name: product
+resources:
+  total: 2
+  max: 1
+  min: 0

@@ -1,0 +1,5 @@
+name: develop
+resources:
+  total: 100
+  max: 99
+  min: 0
