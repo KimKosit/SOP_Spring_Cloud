@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ClientApplication {
 
 	@Autowired
-	ServiceConfig service = new ServiceConfig();
+	ServiceConfig service;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ClientApplication.class, args);
